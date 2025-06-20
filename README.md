@@ -108,8 +108,8 @@ streamlit run streamlit_app.py
 ```
 ### 📊 Sample Dashboard Screenshots
 
-![Dashboard 1](images/Dashboard1.png)
-![Dashboard 2](images/Dashboard2.png)
+![Dashboard 1](Dashboard1.png)
+![Dashboard 2](Dashboard2.png)
 
 ---
 
