@@ -29,6 +29,7 @@ customer_ltv_dashboard/
 ├── streamlit_app.py           # Dashboard source code
 ├── transactions.csv           # Raw transactional data
 ├── requirements.txt           # Python dependencies
+├── CLV_Report.pdf             # Project eport
 └── README.md                  # Project documentation
 ```
 
